@@ -1,0 +1,3 @@
+# Learn React Three Fiber
+
+Learning R3F in 2 weeks to make *something interesting*....
